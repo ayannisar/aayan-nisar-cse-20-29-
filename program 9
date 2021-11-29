@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+
+
+int main()
+
+{
+    int size,i;
+    int array[size];
+
+    for(i=0;i<size;i++)
+    {
+       scanf("%d",&array[i]);
+                    }
+     for(i=0;i<size;i++)
+     {
+         printf("%d\n",array[i]);
+        }
+
+
+                return 0;
+}
